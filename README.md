@@ -20,5 +20,4 @@ This repository shows Julia code of robotics algorithm. All the notebooks here c
 [Akiyuki Hasegawa](https://github.com/hasesuns/)
 
 ## License
-
-[MIT](http://b4b4r07.mit-license.org)
+MIT
